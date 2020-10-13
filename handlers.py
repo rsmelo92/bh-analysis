@@ -8,7 +8,7 @@ from nltk.tokenize import word_tokenize
 new_stopwords = [
   'said', 'say', 'may', 'behavior', 'one', 'often', 'way', 'example', 'know', 'point',
   'make', 'must', 'thing', 'seem', 'see', 'others', 'called', 'made', 'rather', 'mean',
-  'given'
+  'given', 'behaviorism', 'chapter', 'american', 'skinner', 'psychology'
 ]
 
 def remove_stopwords(text):
@@ -18,7 +18,7 @@ def remove_stopwords(text):
   stop_words = set(stopwords)
   word_tokens = word_tokenize(text) 
   filtered_sentence = [w for w in word_tokens if not w in stop_words] 
-  # Rejoin text
+
   joined_text = ' '.join(filtered_sentence)
   return joined_text
 
@@ -39,8 +39,8 @@ def clean_data(data):
   no_stop_words = remove_stopwords(no_double)
   
   # Change new line for symbol
-  cleaned_data = re.sub(r"\s\s+" , " ", no_stop_words)
-  return cleaned_data
+  # cleaned_data = re.sub(r"\s\s+" , " ", no_stop_words)
+  return no_stop_words
 
 def write_to_file(file_name, text):
   f = open(file_name, 'a+')
@@ -55,15 +55,8 @@ def empty_file(file_name):
   except:
     pass
 
-def generate_wordcloud(path, text, show = False):
+def generate_wordcloud(path, text):
   wordcloud = WordCloud(background_color="white", max_words=100, max_font_size=100).generate(text)
-
-  if show:
-    plt.figure()
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.axis("off")
-    plt.show()
-
   wordcloud.to_file(path)
 
 def parse_file(file):
