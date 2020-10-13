@@ -43,14 +43,17 @@ def clean_data(data):
   return cleaned_data
 
 def write_to_file(file_name, text):
-  f = open(f'resources/{file_name}', 'a+')
+  f = open(file_name, 'a+')
   f.write(text)
   f.close()
 
 def empty_file(file_name):
-  f = open(f'resources/{file_name}', 'w+')
-  f.write('')
-  f.close()
+  try:
+    f = open(f'resources/{file_name}', 'w+')
+    f.write('')
+    f.close()
+  except:
+    pass
 
 def generate_wordcloud(path, text, show = False):
   wordcloud = WordCloud(background_color="white", max_words=100, max_font_size=100).generate(text)
@@ -62,3 +65,19 @@ def generate_wordcloud(path, text, show = False):
     plt.show()
 
   wordcloud.to_file(path)
+
+def parse_file(file):
+  text_path = f'./resources/{file}/{file}.txt'
+  cleaned_path = f'./resources/{file}/{file}_cleaned.txt'
+  print(text_path)
+  print(cleaned_path)
+  empty_file(cleaned_path)
+
+  with open(text_path) as f:
+    for line in f:
+      cleaned = clean_data(line)
+      cleaned_add_space = cleaned + ' '
+      write_to_file(cleaned_path, cleaned_add_space)
+
+  with open(cleaned_path) as f:
+    generate_wordcloud(f'./resources/{file}/word_cloud.png', f.read())
