@@ -8,7 +8,7 @@ from nltk.tokenize import word_tokenize
 new_stopwords = [
   'said', 'say', 'may', 'behavior', 'one', 'often', 'way', 'example', 'know', 'point',
   'make', 'must', 'thing', 'seem', 'see', 'others', 'called', 'made', 'rather', 'mean',
-  'given', 'behaviorism', 'chapter', 'american', 'skinner', 'psychology'
+  'given', 'behaviorism', 'chapter', 'american', 'skinner', 'psychology', 'behaviorist'
 ]
 
 def remove_stopwords(text):
