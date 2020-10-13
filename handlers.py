@@ -1,4 +1,5 @@
 import re
+import os
 import string
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
@@ -6,18 +7,18 @@ import nltk
 from nltk.tokenize import word_tokenize 
 
 new_stopwords = [
-  'said', 'say', 'may', 'behavior', 'one', 'often', 'way', 'example', 'know', 'point',
-  'make', 'must', 'thing', 'seem', 'see', 'others', 'called', 'made', 'rather', 'mean',
-  'given', 'behaviorism', 'chapter', 'american', 'skinner', 'psychology', 'behaviorist'
+  'said', 'say', 'may', 'behavior', 'behaviour', 'one', 'often', 'way', 'example', 'know', 'point',
+  'make', 'must', 'thing', 'seem', 'see', 'others', 'called', 'made', 'rather', 'mean', 'given',
+  'behaviorism', 'chapter', 'american', 'skinner', 'psychology', 'behaviorist', 'much', 'psychologist',
+  'although', 'use', 'behavioral', 'psychologists', 'become', 'time'
 ]
 
 def remove_stopwords(text):
   stopwords = nltk.corpus.stopwords.words('english')
   stopwords.extend(new_stopwords)
   stopwords.extend(STOPWORDS)
-  stop_words = set(stopwords)
-  word_tokens = word_tokenize(text) 
-  filtered_sentence = [w for w in word_tokens if not w in stop_words] 
+  word_tokens = word_tokenize(text)
+  filtered_sentence = [w for w in word_tokens if not w in stopwords] 
 
   joined_text = ' '.join(filtered_sentence)
   return joined_text
@@ -39,8 +40,8 @@ def clean_data(data):
   no_stop_words = remove_stopwords(no_double)
   
   # Change new line for symbol
-  # cleaned_data = re.sub(r"\s\s+" , " ", no_stop_words)
-  return no_stop_words
+  cleaned_data = re.sub(r"\s\s+" , " ", no_stop_words)
+  return cleaned_data
 
 def write_to_file(file_name, text):
   f = open(file_name, 'a+')
@@ -49,10 +50,9 @@ def write_to_file(file_name, text):
 
 def empty_file(file_name):
   try:
-    f = open(f'resources/{file_name}', 'w+')
-    f.write('')
-    f.close()
+    os.remove(file_name)
   except:
+    print("No file found to remove")
     pass
 
 def generate_wordcloud(path, text):
@@ -63,7 +63,6 @@ def parse_file(file):
   text_path = f'./resources/{file}/{file}.txt'
   cleaned_path = f'./resources/{file}/{file}_cleaned.txt'
   print(text_path)
-  print(cleaned_path)
   empty_file(cleaned_path)
 
   with open(text_path) as f:
@@ -73,4 +72,6 @@ def parse_file(file):
       write_to_file(cleaned_path, cleaned_add_space)
 
   with open(cleaned_path) as f:
-    generate_wordcloud(f'./resources/{file}/word_cloud.png', f.read())
+    path = f'./resources/{file}/word_cloud.png'
+    empty_file(path)
+    generate_wordcloud(path, f.read())
