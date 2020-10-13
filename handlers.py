@@ -2,8 +2,25 @@ import re
 import string
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
-from nltk.corpus import stopwords
+import nltk
 from nltk.tokenize import word_tokenize 
+
+new_stopwords = [
+  'said', 'say', 'may', 'behavior', 'one', 'often', 'way', 'example', 'know', 'point',
+  'make', 'must', 'thing', 'seem', 'see', 'others', 'called', 'made', 'rather', 'mean',
+  'given'
+]
+
+def remove_stopwords(text):
+  stopwords = nltk.corpus.stopwords.words('english')
+  stopwords.extend(new_stopwords)
+  stopwords.extend(STOPWORDS)
+  stop_words = set(stopwords)
+  word_tokens = word_tokenize(text) 
+  filtered_sentence = [w for w in word_tokens if not w in stop_words] 
+  # Rejoin text
+  joined_text = ' '.join(filtered_sentence)
+  return joined_text
 
 def clean_data(data):
   # Lower case
@@ -18,29 +35,30 @@ def clean_data(data):
   #Remove double space
   no_double = no_ponctuation.replace("\r"," ").replace("\n","")
 
-  # Change new line for symbol
-  cleaned_data = re.sub(r"\s\s+" , " ", no_double)
-
   # Remove stopwords
-  stop_words = set(stopwords.words('english')) 
-  word_tokens = word_tokenize(cleaned_data) 
-  filtered_sentence = [w for w in word_tokens if not w in stop_words] 
+  no_stop_words = remove_stopwords(no_double)
   
-  # Rejoin text
-  joined_text = ' '.join(filtered_sentence)
+  # Change new line for symbol
+  cleaned_data = re.sub(r"\s\s+" , " ", no_stop_words)
+  return cleaned_data
 
-  return joined_text
-
-def create_file(file_name, text):
-  f = open(f'resources/{file_name}', 'w+')  # open file in append mode
+def write_to_file(file_name, text):
+  f = open(f'resources/{file_name}', 'a+')
   f.write(text)
   f.close()
 
-def generate_wordcloud(text):
+def empty_file(file_name):
+  f = open(f'resources/{file_name}', 'w+')
+  f.write('')
+  f.close()
+
+def generate_wordcloud(path, text, show = False):
   wordcloud = WordCloud(background_color="white", max_words=100, max_font_size=100).generate(text)
 
-  plt.figure()
-  plt.imshow(wordcloud, interpolation='bilinear')
-  plt.axis("off")
-  plt.show()
-  wordcloud.to_file("img/about_behaviorism/test.png")
+  if show:
+    plt.figure()
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.show()
+
+  wordcloud.to_file(path)

@@ -489,7 +489,7 @@ that?” and the answer may be checked by asking for the name or a description o
 Past Behavior. Answers to such questions as “What did you do yesterday?” or “Whom did you see?” can
 use a vocabulary acquired in connection with current behavior. A person simply speaks from a special vantage
 
-point: he was necessarily there. Such questions are scarcely di erent from, say, “What happened yesterday?”
+point: he was necessarily there. Such questions are scarcely different from, say, “What happened yesterday?”
 (Whether it is easier to describe yesterday’s behavior if one also described it yesterday is a matter of some
 importance. It has been suggested, for example, that we do not remember what happened in infancy because
 we were not able to describe it at that time [“infant” once meant “incapable of speech”], but we do not
@@ -548,7 +548,7 @@ who is rummaging a box of small objects, and a characteristic response might be 
 pocketknife.” The word “rummaging” describes a particular kind of behavior; in addition to a particular
 
 topography, it implies a reason. A person who is rummaging is looking for something, and the rummaging will
-cease when it is found. A di erent question, “What are you looking for?” narrows the 4eld, and “My old
+cease when it is found. A different question, “What are you looking for?” narrows the 4eld, and “My old
 pocketknife” identi4es the object sought, the 4nding of which will bring the behavior to an end. A further
 question, “Why are you looking for your knife?” might call out the answer “Because I want it,” which usually
 means more than “Because it is wanting.”
@@ -571,9 +571,9 @@ given to “Why are you doing that?” He emphasized feelings but allowed for re
 experimental analysis of behavior goes directly to the antecedent causes in the environment.
 Self-Knowledge
 
-I have been emphasizing a di erence between feelings and reporting what one feels. We may take feeling to
+I have been emphasizing a difference between feelings and reporting what one feels. We may take feeling to
 be simply responding to stimuli, but reporting is the product of the special verbal contingencies arranged by a
-community. There is a similar di erence between behaving and reporting that one is behaving or reporting the
+community. There is a similar difference between behaving and reporting that one is behaving or reporting the
 causes of one’s behavior. In arranging conditions under which a person describes the public or private world in
 which he lives, a community generates that very special form of behavior called knowing. Responding to an
 empty stomach by getting and ingesting food is one thing; knowing that one is hungry is another. Walking over
@@ -588,8 +588,8 @@ behavior and the conditions a ecting it, and (3) to conditions related to future
 private world within the skin is not clearly observed or known. I have mentioned two reasons, to which I shall
 have many occasions to return: in teaching self-knowledge (1) the verbal community must make do with rather
 primitive nervous systems, and (2) it cannot fully solve the problem of privacy. There is an old principle that
-nothing is di erent until it makes a di erence, and with respect to events in the world within the skin the
-verbal community has not been able to make things di erent enough. As a result, there is room for speculation,
+nothing is different until it makes a difference, and with respect to events in the world within the skin the
+verbal community has not been able to make things different enough. As a result, there is room for speculation,
 which over the centuries has shown the most extraordinary diversity.
 Plato is said to have discovered the mind, but it would be more accurate to say that he invented one version
 of it. Long before his time, the Greeks had constructed an elaborate explanatory system, a strange mixture of
@@ -681,12 +681,12 @@ they live, and some of the behavior seems to be due to a genetic endowment, but 
 defends its territory because of a territorial imperative or any other kind of instinct is simply to say that it is
 the kind of organism which defends its territory. (The expression “genetic endowment” is itself dangerous. Like
 reAexes and instincts, it tends to acquire properties not warranted by the evidence and to begin to serve as a
-cause rather than as representing the current e ects of natural selection, from which attention is then
+cause rather than as representing the current effects of natural selection, from which attention is then
 deAected.)
 Darwin’s theory of natural selection came very late in the history of thought. Was it delayed because it
 opposed revealed truth, because it was an entirely new subject in the history of science, because it was
 characteristic only of living things, or because it dealt with purpose and 4nal causes without postulating an act
-of creation? I think not. Darwin simply discovered the role of selection, a kind of causality very di erent from
+of creation? I think not. Darwin simply discovered the role of selection, a kind of causality very different from
 the push-pull mechanisms of science up to that time. The origin of a fantastic variety of living things could be
 explained by the contribution which novel features, possibly of random provenance, made to survival. There
 was little or nothing in physical or biological science that foreshadowed selection as a causal principle.
@@ -694,9 +694,9 @@ Although we still do not know much about the anatomy and physiology underlying b
 speculate about the process of selection which made them part of a genetic endowment. Survival may be said
 to be contingent upon certain kinds of behavior. For example, if members of a species did not mate, care for
 their young, or defend themselves against predators, the species would not survive. It is not easy to study these
-“contingencies of survival” experimentally because selection is a slow process, but some e ects may be shown
+“contingencies of survival” experimentally because selection is a slow process, but some effects may be shown
 by studying species which quickly mature to breeding age and by carefully arranging conditions of selection.
-Contingencies of survival are often described with terms which suggest a di erent kind of causal action.
+Contingencies of survival are often described with terms which suggest a different kind of causal action.
 “Selection pressure” is an example. Selection is a special kind of causality which is not properly represented as
 a force or pressure. To say that there is “no obvious selection pressure on mammals that explains the high level
 of intelligence reached by primates” is simply to say that it is hard to imagine conditions under which slightly
@@ -727,7 +727,7 @@ A conditioned reAex, as a thing a person possesses, has no more explanatory forc
 innate reAex. The heart of the runner does not begin to beat strongly and rapidly just before a race because of
 the conditioned cardiac reAex; the reAex is simply a way of identifying the fact that it begins to beat rapidly.
 The runner has been changed when situations at the start of a race have been followed by strong exertion, and
-as a changed organism he behaves in a di erent way. It is merely convenient to identify the changes as the
+as a changed organism he behaves in a different way. It is merely convenient to identify the changes as the
 “acquisition of a conditioned reAex.”
 
 Just as we point to contingencies of survival to explain an unconditioned re ex, so we can point to
@@ -2388,13 +2388,13 @@ When people began to live together in groups, a social environment arose, and it
 practices. Those who behaved in ways injurious to others, for example, were punished by those they injured.
 Standard warnings could be formulated, as the behavior came to be called bad and punished accordingly, even
 by those who were not injured by a speci c instance. The contingencies became more powerful when they
-were codi ed in the religious and governmental warnings, directions, and instructions called laws. By obeying
+were codifed in the religious and governmental warnings, directions, and instructions called laws. By obeying
 the law a person avoids punishment.
 Special contingencies are arranged to enforce governmental and religious laws, but uncontrived social
-contingencies maintained by the group may have the same e)ect. Where a law codi es pre-existing social
+contingencies maintained by the group may have the same e)ect. Where a law codifes pre-existing social
 sanctions opposed to stealing, for example, a person may begin by obeying the commandment “Thou shalt not
 steal,” but he may eventually refrain from stealing to avoid the disapproval and criticism of his friends. In
-doing so he comes under the control of the uncodi ed social sanctions from which the law was originally
+doing so he comes under the control of the uncodifed social sanctions from which the law was originally
 derived.
 The Laws of Science
 
@@ -2731,7 +2731,7 @@ We do not act by putting knowledge to use; our knowledge
 is action, or at least rules for action. As such it is
 
 power, as Francis Bacon pointed out in rejecting scholasticism and its emphasis on knowing for the sake of
-knowing. Operant behavior is essentially the exercise of power: it has an e ect on the environment. The
+knowing. Operant behavior is essentially the exercise of power: it has an effect on the environment. The
 advancement or augmentation of learning proposed by Bacon was the furthering of human behavior in the
 interests of the human condition, and the achievements of modern science show that he correctly foresaw its
 character. Nevertheless, the concern for power has recently been challenged. The West is said to have made a
@@ -2750,7 +2750,7 @@ some prior indication that X would be at the meeting, but the behavior itself co
 fact. To say, “I went thinking X would be there,” suggests a less clear or less reliable prior indication, a
 distinction between thinking and knowing mentioned in Chapter 7. It has been said that “all knowing consists
 of hypotheses … regarded as proven or held very tentatively,” but we are more likely to say “I think” with
-regard to a tentative hypothesis and to reserve “I know” for the proven case. The di erence is not critical,
+regard to a tentative hypothesis and to reserve “I know” for the proven case. The difference is not critical,
 however. The assertion “I know someone is hiding in this room” implies weak evidence but is nevertheless a
 strong response, presumably for other reasons. Similar conditions may prevail even though a remark is not
 made.
@@ -2759,12 +2759,12 @@ is the listener rather than the speaker who takes action. We may speak of the po
 listener, but the behavior of a speaker in identifying or describing something suggests a kind of knowledge
 divorced from practical action. Verbal behavior plays a principal role in contemplative knowledge, however,
 because it is well adapted for automatic reinforcement: the speaker may be his own listener. There are
-nonverbal behaviors having the same e ect. Perceptual responses which clarify stimuli and resolve puzzlement
+nonverbal behaviors having the same effect. Perceptual responses which clarify stimuli and resolve puzzlement
 may be automatically reinforcing. “Getting the meaning” of a di%cult passage is similar. The whole world of
 fantasy is perceptual behavior which is automatically reinforcing, and some parts fall within the 'eld of
 knowledge. Contemplation of this kind would be impossible,
 however, without a previous exposure to
-contingencies in which action is taken and di erentially reinforced.
+contingencies in which action is taken and differentially reinforced.
 Understanding
 
 In a simple sense of the word, I have understood what a person says if I can repeat it correctly. In a somewhat
@@ -2783,11 +2783,11 @@ the commutative law alone; they are to show the reasons why it works.
 We ourselves often acquire a deeper understanding of a rule in this sense through exposure to the natural
 contingencies it describes. Thus, if we have memorized a maxim and observed it, we may again begin to be
 modi'ed by the natural consequences. We discover, for example, that “it really is true” that procrastination is
-the thief of time, and we then understand the maxim in a di erent sense. The understanding gained by moving
+the thief of time, and we then understand the maxim in a different sense. The understanding gained by moving
 from rule-governed to contingency-shaped behavior is usually reinforcing, in part because the reinforcers in the
 latter case are less likely to be contrived and hence less likely to work in the interest of others.
 We also 'nd it reinforcing when a rule, as a description of contingencies, makes them less puzzling or more
-e ective. If a given situation has not evoked any very useful verbal behavior, we may be reinforced by what a
+effective. If a given situation has not evoked any very useful verbal behavior, we may be reinforced by what a
 
 writer says about it if we can then respond in the same way. We understand what he says in the sense that we
 can now formulate the contingencies he describes more exactly or respond to them more successfully.
@@ -2796,7 +2796,7 @@ Knowing as Possessing Information
 Information theory arose from the analysis of transmitted signals, as in a telephone line. In the 'eld of verbal
 behavior it could be applied to the sound stream of speech between speaker and listener or the marks in a
 letter sent from writer to reader. The message has, as I have said, an apparently objective status.
-Information is used in a very di erent way in describing individual behavior. Just as the external practice of
+Information is used in a very different way in describing individual behavior. Just as the external practice of
 storing and later consulting memoranda is used metaphorically to represent a supposed mental process of
 storing and retrieving memories, so the transmission of information from one person to another has been used
 metaphorically to represent the transmission of input to output (or of stimulus to response). The metaphor is
@@ -2805,7 +2805,7 @@ the body and is processed and converted into behavior. Like stored memories or d
 begins as input (necessarily coded) but changes progressively until it becomes a predisposition to act. In an
 operant analysis, as I have pointed out, we do not need to follow the stimulus through the body or to see how
 it becomes a response. Neither the stimulus nor the response is ever in the body in any literal sense. As a form
-of knowledge, information can be treated more e ectively as a behavioral repertoire.
+of knowledge, information can be treated more effectively as a behavioral repertoire.
 It is often said that reinforcement conveys information, but this is simply to say that it makes a response not
 only more probable but more probable on a speci'c occasion. It brings a response under the control of related
 deprivations or aversive stimulation as well as of stimuli present at the time it occurs. Information in this sense
@@ -2823,7 +2823,7 @@ short lifetime or ever through direct exposure to many kinds of contingencies.
 The objectivity which distinguishes rule-governed behavior from behavior generated by direct exposure to
 contingencies is furthered by tests of validity, proof, practices minimizing personal in<uences, and other parts
 of scienti'c method. Nevertheless, the corpus of science—the tables of constants, the graphs, the equations, the
-laws—have no power of their own. They exist only because of their e ects on people. Only a living person
+laws—have no power of their own. They exist only because of their effects on people. Only a living person
 knows science in the sense of acting under its control with respect to nature. But this is not to say that “every
 instance of knowing involves coming to terms in some way with the subjective and phenomeno-logical.”
 Knowledge is subjective in the trivial sense of being the behavior of a subject, but the environment, past or
@@ -2832,10 +2832,10 @@ If action were determined by feelings or introspectively observed states of mind
 Polanyi and Percy W. Bridgman have insisted, that science is inexorably personal. As Bridgman once put it, “I
 must describe things as they seem to me . I cannot get away from myself.” This is true in the sense that a
 scientist must behave as an individual. But if he analyzes the world around him, and if, as a result, he states
-facts or laws which make it possible for others to respond e ectively without personal exposure to that world,
+facts or laws which make it possible for others to respond effectively without personal exposure to that world,
 then he produces something in which he himself is no longer involved. When many other scientists arrive at
 the same facts or laws, any personal contribution or personal participation is reduced to a minimum. What is
-felt or introspectively observed by those whose behavior is governed by scienti'c laws is very di erent from
+felt or introspectively observed by those whose behavior is governed by scienti'c laws is very different from
 what is felt or introspectively observed as the result of exposure to the original contingencies.
 It is absurd to suppose that science is what a scientist feels or introspectively observes. No one person can
 respond to more than a minuscule part of the contingencies prevailing in the world around him. If it is said
@@ -2857,12 +2857,12 @@ pragmatist, a member of the proletariat, a practitioner of the work ethic, or a 
 classify behavior having identi'able consequences under given circumstances. Con<icts, such as that between
 empiricism and rationalism, are con<icts between contingencies, and if the history of ideas seems to show the
 development of human thought, it is not because, for example, romanticism leads to classicism and vice versa,
-but because the practices characteristic of one ism eventually produce conditions under which a di erent
+but because the practices characteristic of one ism eventually produce conditions under which a different
 pattern of behavior is generated and for a time maintained.
 In Five Stages of Greek Religion , Gilbert Murray described the change in the Roman Empire under
 Christianity as “a rise of asceticism, of mysticism, in a sense, of pessimism; a loss of self-con'dence, of hope in
 this life and faith in normal human e ort; a despair of patient inquiry, a cry for infallible revelation; an
-indi erence to the welfare of the state, a conversion of the soul to God.” According to Peter Gay, “He
+indifference to the welfare of the state, a conversion of the soul to God.” According to Peter Gay, “He
 christened it a ‘failure of nerve.’ ” “Christened” is possibly a pun, but the failure of nerve is a rather
 characteristic appeal to pseudophysiology, a coming down to earth after a sustained <ight of mentalism. The
 evidence which justi'es ascribing the behavior of Romans to asceticism, mysticism, pessimism, and so on
@@ -2872,7 +2872,7 @@ were), but his behavior is clearly under the control of other consequences—mos
 sanctions of early Christianity. Pessimism and a loss of self-con'dence, hope, and faith are, as we saw in
 Chapter 4 , associated with a lack of strong positive reinforcement A despair of patient inquiry suggests
 defective schedules of reinforcement, and a cry for infallible revelation a search for rules in lieu of
-contingencies which might shape behavior directly. An indi erence to the welfare of the state and a conversion
+contingencies which might shape behavior directly. An indifference to the welfare of the state and a conversion
 of the soul to God suggest a shift from governmental to religious sanctions. How much more we should know if
 the prevailing contingencies had been described rather than the feelings and isms generated by them!
 
@@ -2950,7 +2950,7 @@ a current
 environment. It is said to satisfy the id if it achieves a certain amount of biological reinforcement, and the
 superego if it does so without risking too much punishment. We do not need to say that these three archetypal
 personalities are the actors in an internal drama. The actor is the organism, which has become a person with
-di erent, possibly con<icting, repertoires as the result of di erent, possibly con<icting, contingencies.
+different, possibly con<icting, repertoires as the result of different, possibly con<icting, contingencies.
 Freud’s analysis has seemed convincing because of its universality, but it is the environmental contingencies
 rather than the psyche which are invariant. The con<icts between the superego and the id, which the ego so
 often fails to resolve, show certain familiar patterns. In some cultures the fact that a son loves his mother and
@@ -2974,10 +2974,10 @@ forces” said to “dwell in our depths” are merely the great things we might
 The word “depth,” common in psychoanalysis, often makes the unwarranted suggestion that an analysis is
 profound, but it may also be taken to refer to certain spatial features of the mind. The nineteenth-century
 psychologist treated consciousness as the place in which sensations could be observed, but the space occupied
-by the ego, superego, and id is more complex. The mind has di erent parts inferred from di erent kinds of
-behavior. To be of two minds about something is to have di erent things to do about it. The term
+by the ego, superego, and id is more complex. The mind has different parts inferred from different kinds of
+behavior. To be of two minds about something is to have different things to do about it. The term
 “schizophrenia” originally meant “split mind” and is still misused in that sense. To be beside oneself is to be,
-for the moment, two people. Di erent kinds of behavior are said to be kept in di erent compartments of the
+for the moment, two people. Different kinds of behavior are said to be kept in different compartments of the
 mind. “In most human beings there is a repository of violence, but the brain throws up a barrier, a fence, to
 keep it in check. Secobarbital … may rip down this mental fence and permit violence to rush forth” (another
 interesting mixture of matter and mind). Music, to a well-known statesman, is “an outlet for passionate
@@ -2988,14 +2988,14 @@ the unconscious, but they may break into the conscious mind. It is often said, p
 that behaviorism cannot deal with the unconscious. The fact is that, to begin with, it deals with nothing else.
 The controlling relations between behavior and genetic and environmental variables are all unconscious so
 long as they are not observed, and it was Freud who emphasized that they need not be observed (that is,
-conscious) to be e ective. It requires a special verbal environment to impose consciousness on behavior by
+conscious) to be effective. It requires a special verbal environment to impose consciousness on behavior by
 inducing a person to respond to his own body while he is behaving. If consciousness seems to have a causal
-e ect, it is the e ect of the special environment which induces self-observation.
+effect, it is the effect of the special environment which induces self-observation.
 To increase a person’s consciousness of the external world is simply to bring him under more sensitive
 
 control of that world as a source of stimulation. Marx and others have tried to “throw people into a higher
 level of consciousness” in bringing them under the control of aspects of their environment which were
-previously ine ective. Drugs which alter the control are sometimes said to expand consciousness.
+previously ineffective. Drugs which alter the control are sometimes said to expand consciousness.
 What behaviorism rejects is the unconscious as an agent, and of course it rejects the conscious mind as an
 agent, too. A biography of Mohammed asserts that “it is obvious to non-Muslims that the words which
 Mohammed heard … were dictated to him by his unconscious … the voice of Allah was in fact the voice of
@@ -3033,7 +3033,7 @@ Chapter 2 . We then
 have this: behavior which is punished becomes aversive, and by not engaging in it or not “seeing” it, a person
 avoids conditioned aversive stimulation. There are feelings associated with this, but the facts are accounted for
 by the contingencies.
-The word “repression” is part of an elaborate metaphor which gives a dynamic character to the e ect of
+The word “repression” is part of an elaborate metaphor which gives a dynamic character to the effect of
 punishment. When feelings cannot be expressed, pressure is said to build up until an explosion occurs. A
 newspaper asserts that “the frightening thing about quiet people like Bremer and Sirhan and Oswald is that
 there must be millions of them in the United States, holding their rage inside them until—lacking the safety
@@ -3061,15 +3061,15 @@ hatred of the child or of the father, we may say instead that the condition felt
 miscarriage, and that it must be attributed in turn to a complex social situation. The ulcer and the miscarriage
 are “symbolically equivalent” to rage and hatred in that they are associated with a high probability of working
 harm. Conversion does not demonstrate mind over matter; the psychic does not change the physical. Physical
-conditions, many of them relevant to behavior and felt in various ways, have physical (medical) e ects.
+conditions, many of them relevant to behavior and felt in various ways, have physical (medical) effects.
 Sublimation: “Discharge of instinctual energy and especially that associated with pre-genital impulses through
 socially approved activities.” For “discharge of energy through activities” read “behavior,” and for “instinctual”
 and “associated with pre-genital impulses” read “due to certain biological reinforcers.” If two forms of behavior
 are both reinforced and if only one of them is punished, the other is more likely to occur.
 The other Freudian dynamisms or defense mechanisms may be treated in the same way. They are not
-psychic processes taking place in the depths of the mind, conscious or unconscious; they are the e ects of
+psychic processes taking place in the depths of the mind, conscious or unconscious; they are the effects of
 contingencies of reinforcement, almost always involving punishment. At best we may say that they are ways in
-which a person defends himself against punishment by acquiring behavior e ective in the world in which he
+which a person defends himself against punishment by acquiring behavior effective in the world in which he
 lives (as ego), reinforced in part because of susceptibilities to reinforcement which are part of his genetic
 endowment (as id), and not punished by other persons or by himself (as superego).
 It has been said that “inhibiting forces which oppose the discharge of tension are the immediate subject of
@@ -3080,13 +3080,13 @@ Inner Causes
 An angry person may have a rapid pulse and a <ushed face; his behavior may be strongly focused on the object
 of his anger and uncontrolled by other features of the environment; he may show a strong tendency to harm
 that object (“I could have killed him”) or may actually harm him. He may feel much of the condition of his
-body at such a time and take it as the cause of his behavior, but it is in fact part of the e ect for which a cause
+body at such a time and take it as the cause of his behavior, but it is in fact part of the effect for which a cause
 is sought. Both the behavior and the collateral conditions felt are to be explained. After all, why did he act and
 feel angry?
 When an antecedent incitement is not easily spotted, the felt condition is likely to be assigned a more
 important role. A person who is angry “but does not know why” is more likely to attribute his behavior to his
 feelings. There does not seem to be anything else to attribute it to. A mild emotion or mood is often
-particularly hard to explain, and the mood itself is therefore said to be causally e ective (although we must
+particularly hard to explain, and the mood itself is therefore said to be causally effective (although we must
 still look for the sources of the mood if we are to explain the behavior).
 Bruckner reported the occasion of a creative musical act in the following way: “One day I came home and
 felt very sad. The thought had crossed my mind that before long the master [Wagner] would die, and then the
@@ -3144,7 +3144,7 @@ practice. We tend to make nouns of adjectives and verbs and must then 'nd a plac
 are said to represent. We say that a rope is strong, and before long we are speaking of its strength. We call a
 particular kind of strength tensile, and then explain that the rope is strong because it possesses tensile strength.
 The mistake is less obvious but more troublesome when matters are more complex. There is no harm in saying
-that a <uid possesses viscosity, or in measuring and comparing di erent <uids or the same <uid at di erent
+that a <uid possesses viscosity, or in measuring and comparing different <uids or the same <uid at different
 temperatures on some convenient scale. But what does viscosity mean? A sticky stu prepared to trap birds
 was once made from
 viscus, Latin for mistletoe. The term came to mean “having a ropy or glutinous
@@ -3167,7 +3167,7 @@ Abstract nouns lead the reader into the depths. “Liberality among the rich,”
 kind of timidity.” There is something “deep” in that maxim which is missing in a simple description of the
 behavior: “Rich people give not to please but to appease.” Explanations in depth are common in historical
 writing. The Romans conquered the Etruscans and were astonished at their spoils of war. Later they got even
-more from Carthage. This is said to have had the following e ect: “Covetousness and greed, restrained within
+more from Carthage. This is said to have had the following effect: “Covetousness and greed, restrained within
 the Roman community by ancient rules of behavior, having once been let loose upon the foreigner, could no
 
 longer be restrained at home.” We might move from traits of character to contingencies of reinforcement by
@@ -3178,7 +3178,7 @@ contingencies remain on the surface.
 The theater and the novel would probably not survive if the dramatist and novelist stayed out of the depths.
 In The Portrait of a Lady , the young Ralph Touchett develops tuberculosis and must remain inactive for a long
 time. This does not bother him, however, because he has never been strongly inclined to do anything. But that
-is too super'cial a statement for Henry James, who puts it this way: “A secret hoard of indi erence … came to
+is too super'cial a statement for Henry James, who puts it this way: “A secret hoard of indifference … came to
 his aid and helped to reconcile him to sacri'ce.”
 Asked whether he was not concerned with his own safety during a trip to the moon, an astronaut replied
 that “astronauts do feel concern, but long and arduous training programs build the con'dence needed to o set
@@ -3194,7 +3194,7 @@ product of his labor seems more profound than to say that it destroyed the natur
 of making things, for which the contrived reinforcers of wages were a poor substitute.
 The reaction of a worker to a welfare chiseler appears to depend on a history of social contingencies,
 common in Western cultures, in which shirkers are punished by workers, the latter possibly feeling a condition
-called resentment. In one analysis of the e ects of a chiseler on a worker, “work” becomes “sacri'ce,” which is
+called resentment. In one analysis of the effects of a chiseler on a worker, “work” becomes “sacri'ce,” which is
 said to be a “voluntary virtue, a meaning the sacri'cer has created out of the material circumstances of his life.”
 The refusal of the welfare chiseler to make sacri'ces then “calls into question the meaning of (the worker’s) act
 of self-abnegation” and makes that “willed, created meaning vulnerable.” An elaborate psychic operation
@@ -3229,7 +3229,7 @@ achievements in the history of human thought, but it is possible that it has bee
 search for internal explanation, supported by the false sense of cause associated with feelings and introspective
 observations, mentalism has obscured the environmental antecedents which would have led to a much more
 
-e ective analysis. To argue that “minds kill, not guns” may be simply to insist that we shall not control
+effective analysis. To argue that “minds kill, not guns” may be simply to insist that we shall not control
 assassins by making guns unavailable, but other means of control will be neglected so long as we accept the
 explanation that minds kill. The objection to the inner workings of the mind is not that they are not open to
 inspection but that they have stood in the way of the inspection of more important things.
@@ -3262,13 +3262,13 @@ to do it, or of the role a person plays as a persona in a drama, wearing his bod
 In a behavioral analysis a person is an organism, a member of the human species, which has acquired a
 repertoire of behavior. It remains an organism to the anatomist and physiologist, but it is a person to those to
 whom its behavior is important. Complex contingencies of reinforcement create complex repertoires, and, as
-we have seen, di erent contingencies create di erent persons in the same skin, of which so-called multiple
+we have seen, different contingencies create different persons in the same skin, of which so-called multiple
 personalities are only an extreme manifestation. What happens when a repertoire is acquired is the important
 thing. The person who asserts his freedom by saying, “I determine what I shall do next,” is speaking of freedom
 in or from a current situation: the I who thus seems to have an option is the product of a history from which it
 is not free and which in fact determines what it will now do.
 A person is not an originating agent; he is a locus, a point at which many genetic and environmental
-conditions come together in a joint e ect. As such, he remains unquestionably unique. No one else (unless he
+conditions come together in a joint effect. As such, he remains unquestionably unique. No one else (unless he
 has an identical twin) has his genetic endowment, and without exception no one else has his personal history.
 Hence no one else will behave in precisely the same way. We refer to the fact that there is no one like him as a
 person when we speak of his identity. (The Latin
@@ -3289,13 +3289,13 @@ All species except man behave without knowing that they do so, and presumably th
 a verbal community arose to ask about behavior and thus to generate self-descriptive behavior. Self-knowledge
 is of social origin, and it is useful 'rst to the community which asks the questions. Later, it becomes important
 to the person himself—for example, in managing or controlling himself in ways to be discussed shortly.
-Di erent communities generate di erent kinds and amounts of self-knowledge and di erent ways in which
+Different communities generate different kinds and amounts of self-knowledge and different ways in which
 people explain themselves to themselves and others. Some produce the deeply introspective introverted, or
 inner-directed, person, others the outgoing extravert. Some produce people who act only after a careful
 consideration of the possible consequences, others the thoughtless and impulsive. Some communities produce
 people particularly aware of their reactions to art, music, or literature, others of their relations with the people
 around them. The questions asked by mentalistic psychologists and those asked by behaviorists naturally
-produce di erent kinds of self-knowledge. They 'rst emphasize how a person feels about things.
+produce different kinds of self-knowledge. They 'rst emphasize how a person feels about things.
 There is little doubt of the historical priority of the inner search. It was what Socrates meant by “Know
 thyself.” (That injunction appears on the wall of a Roman bath beneath a mosaic of a skeleton—an anatomical
 version of the self.) Montaigne spoke of “spying on himself” and of “discovering the springs which set him in
@@ -3368,8 +3368,8 @@ inanimate thing, he is obviously making a mistake, and his behavior has been cal
 
 “angry sea” behaves in an angry fashion, but we do not suppose that it feels angry. We merely infer that for a
 time it will continue to behave in an angry way. We can also be wrong when we project feelings onto other
-people. A person can “act bravely while feeling afraid,” but he does so with di erent parts of his body, with
-di erent repertoires. We may be able to discover how he “really” feels by altering the contingencies. If he is
+people. A person can “act bravely while feeling afraid,” but he does so with different parts of his body, with
+different repertoires. We may be able to discover how he “really” feels by altering the contingencies. If he is
 acting bravely because of prevailing social contingencies in which “showing fear” is punished, we may be able
 to change the contingencies so that he will act as if afraid. What he felt was in both cases generated by certain
 features of the situation rather than by the behavior which simulated bravery. A person who says he feels brave
@@ -3387,7 +3387,7 @@ We 'nd it easier to know what another person is feeling if he tries to communica
 verbally. Convey means to transport or transmit, and communicate means to make common to both speaker
 and listener, but what is really conveyed or made common? It is, of course, quite inadequate to say that “man
 translates his experience into sound waves that another person can understand—that is, so that the listener can
-retranslate the sounds into a comparable experience.” The meaning of an expression is di erent for speaker
+retranslate the sounds into a comparable experience.” The meaning of an expression is different for speaker
 and listener; the meaning for the speaker must be sought in the circumstances under which he emits a verbal
 response and for the listener in the response he makes to a verbal stimulus. At best the end product of
 communication could be said to be the fact that the listener’s response is appropriate to the speaker’s situation.
@@ -3410,7 +3410,7 @@ comparable feelings in others. If it is true that only those who have been psych
 what it
 feels like, then presumably there is nothing else that feels like it.
 We try to discover how another person feels for many reasons. A good deal of our behavior is reinforced by
-its e ect on others, and it is presumably more reinforcing if the e ect is clear. Thus, we act to reinforce those
+its effect on others, and it is presumably more reinforcing if the effect is clear. Thus, we act to reinforce those
 we like or love and to avoid harming them, in part because of what they do in return. (The tendency could be
 innate, since there is survival value, for example, in the behavior of a mother who feeds and cares for her
 young and protects them from harm and who, in doing so, provides conditions which classify as positive and
@@ -3422,15 +3422,15 @@ There may seem to be a more compelling reason for probing the feelings of others
 that counts but how a person feels about his behavior,” the discovery of feelings should be the 'rst order of
 business. But how a person feels about his behavior depends upon the behavior and upon the conditions of
 which it is a function, and we can deal with these without examining feelings. When we are helping people to
-act more e ectively, our 'rst task may seem to be to change how they feel and thus how they will act, but a
-much more e ective program is to change how they act and thus, incidentally, how they feel.
+act more effectively, our 'rst task may seem to be to change how they feel and thus how they will act, but a
+much more effective program is to change how they act and thus, incidentally, how they feel.
 
 In a behavioristic analysis knowing another person is simply knowing what he does, has done, or will do
 and the genetic endowment and past and present environments which explain why he does it. It is not an easy
 assignment, because many relevant facts are out of reach, and each person is indubitably unique. But our
 knowledge of another person is limited by accessibility, not by the nature of the facts. We cannot know all
 there is to know, as we cannot know all we should like to know about the worlds of physics and biology, but
-that does not mean that what remains unknown is of a di erent nature. As in other sciences, we often lack the
+that does not mean that what remains unknown is of a different nature. As in other sciences, we often lack the
 information necessary for prediction and control and must be satis!ed with interpretation, but our
 interpretations will have the support of the prediction and control which have been possible under other
 conditions.
@@ -3443,7 +3443,7 @@ Managing Oneself
 Self-management raises the same question as self-knowledge: Who are the managing and managed selves? And
 again the answer is that they are repertoires of behavior. The intellectual self-management discussed in Chapter
 7 is a matter of changing a situation until a response appears which solves a problem, the problem-solving
-repertoire making the repertoire containing the successful solution more e ective. The two repertoires are
+repertoire making the repertoire containing the successful solution more effective. The two repertoires are
 more easily distinguished in ethical self-management. The managed self is composed of what is signi!cantly
 called sel!sh behavior—the product of the biological reinforcers to which the species has been made sensitive
 through natural selection. The managing self, on the other hand, is set up mainly by the social environment,
@@ -3458,25 +3458,25 @@ more expediently to the contingencies they describe. An illuminating example is 
 impossible to construct a table of commandments applicable to all the things people do which a ect others,
 but to discover whether a
 particular act is likely to be punished because it a ects others aversively the
-individual is enjoined to examine the e ect on himself. This is the early and negative form of the Rule, but he
-may also look for reinforcing e ects. The joint Rule tells him to avoid acting if the e ect would be aversive to
-himself and to act if the e ect would be reinforcing. Note that he is not asked to examine his putative feelings
+individual is enjoined to examine the effect on himself. This is the early and negative form of the Rule, but he
+may also look for reinforcing effects. The joint Rule tells him to avoid acting if the effect would be aversive to
+himself and to act if the effect would be reinforcing. Note that he is not asked to examine his putative feelings
 or to predict the feelings his behavior would induce in others; he is to see whether it is the kind of
-consequence he would act to achieve. In examining such an e ect on himself (as by recalling his history or
+consequence he would act to achieve. In examining such an effect on himself (as by recalling his history or
 generalizing from it), he may well respond to conditions of his own body rather than to the changes induced in
 his behavior. The conditions felt in association with reinforcers are salient; but self-management is concerned
 with consequences, many of them due to action taken by others, and the rule is more exactly applied if a
 person recollects not what he has felt but what he has done when others have treated him in a given way.
 Some well-known techniques of self-management are designed to bring a person’s history into play in
-o setting an aversive e ect. For example, drinking alcoholic beverages often has two opposing consequences:
+o setting an aversive effect. For example, drinking alcoholic beverages often has two opposing consequences:
 an immediate reinforcement and a deferred punishment. After being punished, a person may “resolve” not to
-drink again. A resolution is a kind of self-made rule, designed to extend the e ect of punishment into the
-future, but on a later occasion the immediate reinforcing e ect may still take over. Recalling the resolution is a
-gesture of self-management, though possibly ine ective. Avoiding situations in which one is likely to drink
-(“avoiding temptation”) is possibly more e ective.
+drink again. A resolution is a kind of self-made rule, designed to extend the effect of punishment into the
+future, but on a later occasion the immediate reinforcing effect may still take over. Recalling the resolution is a
+gesture of self-management, though possibly ineffective. Avoiding situations in which one is likely to drink
+(“avoiding temptation”) is possibly more effective.
 A common technique of intellectual self-management is to arrange a situation—for example, a study or
 studio—in which there is little to interfere with a given kind of behavior. The cloister and the hermitage have
-similar e ects in ethical self-management. The artist who paints photographically is under the powerful
+similar effects in ethical self-management. The artist who paints photographically is under the powerful
 control of his model, but if he can bring his personal history into play, his work will show a kind of generality,
 because it will be less closely tied to one situation. He will have “extracted the essentials” by attenuating the
 control exerted by the current setting. The same principle underlies the practice of Zen, in which the archer, for
@@ -3485,7 +3485,7 @@ to “transcend” the immediate situation; they become “detached” from it.
 Personal history asserts itself in self-control or self-management in other ways. The individual who refuses to
 “go under” in a concentration camp, who is not “broken” by e orts made to demean or destroy his dignity or
 
-identity, has transcended his current environment. To say that he is able to inject a di erent meaning into that
+identity, has transcended his current environment. To say that he is able to inject a different meaning into that
 environment is simply to say that he is under the more powerful control of his history.
 The goal of self-management is often called self-ful!llment or self-actualization. Ful!llment seems to be
 concerned with achievement, with avoiding restraints and discovering positive reinforcers. Actualization seems
@@ -3496,11 +3496,11 @@ A good deal of interest has recently been shown in the so-called self-control of
 changes in heart rate, or blood pressure, or blushing, or sweating. These re:ex mechanisms have been called
 involuntary, and as we saw in Chapter 4, this would seem to set them apart from operant behavior, but the
 conditions needed for operant conditioning can be arranged. Autonomic behavior is usually concerned with the
-internal economy, and there have been few e ects on the environment which would make operant
+internal economy, and there have been few effects on the environment which would make operant
 conditioning relevant, but a conspicuous indicator that a response is occurring can be set up, and operant
 contingencies can thus be established. A given heart rate, for example, can turn on a light, which is then
 followed by a reinforcing consequence. But slowing or speeding the pulse is no more self-control than slowing
-or speeding one’s stride when walking. The only di erence is that the pulse is not
+or speeding one’s stride when walking. The only difference is that the pulse is not
 normally followed by
 reinforcing consequences which bring it under operant control. Consequences are sometimes made more
 conspicuous in the operant conditioning of skeletal muscles. Thus, it is easier to learn to wiggle one’s ears by
@@ -3517,12 +3517,12 @@ greater amount of residual air in our lungs, we were squeezing blood into the ar
 these mediating responses can be eliminated, and the pure operant control of autonomic behavior may be
 possible. It is not, however, the self-management with which we are here concerned.
 When techniques of self-management have been learned, the instructional contingencies maintained by the
-verbal community may no longer be needed. Behavior resulting from good self-management is more e ective
+verbal community may no longer be needed. Behavior resulting from good self-management is more effective
 and hence generously reinforced in other ways. It is possible that a much more precise kind of control
 may
-begin to be exerted by private e ects, in which case the problem of privacy faced by the verbal community is
+begin to be exerted by private effects, in which case the problem of privacy faced by the verbal community is
 surmounted. Self-management then becomes as automatic in its dependence on private stimuli as the skilled
-movements of an acrobat, but although these contingencies may lead to e ective private self-stimulation, they
+movements of an acrobat, but although these contingencies may lead to effective private self-stimulation, they
 do not lead to self-knowledge. We may be as unconscious of the stimuli we use in self-management as of those
 we use in executing a handspring.
 Managing Another Person
@@ -3541,7 +3541,7 @@ is based mainly on the threat of punishment (“power”), and noninstitutional 
 sort. Among positive reinforcers are the goods and money of economic control in agriculture, trade,
 and
 industry and, less formally, in daily life (“wealth” or “privilege”). Interpersonal contact is frequently a matter of
-approval (“prestige”) or censure, some forms of which are probably e ective for genetic reasons (“The desire
+approval (“prestige”) or censure, some forms of which are probably effective for genetic reasons (“The desire
 for approbation is perhaps the most deeply seated instinct of civilized man”), but which usually derive their
 power from their exchange with other reinforcers.
 In traditional terms, one person arranges positive or negative contingencies in order to create interests,
@@ -3561,14 +3561,14 @@ intersection at which drivers are likely to have trouble, as the sign “Thin Ic
 without threatening punitive action by the authorities. But contrived aversive consequences are usually added.
 The child who stays out when told to come in will not only get wet, he will be punished for disobedience. The
 driver who does not stop at the intersection will not only run the risk of an accident, he will get a ticket. (The
-sign will be particularly e ective if a punisher—a policeman—is visible.)
+sign will be particularly effective if a punisher—a policeman—is visible.)
 A warning, like the rules discussed in Chapter 8, gives explicit reasons in the form of a (possibly incomplete)
 description of contingencies. A person who responds because of a warning is behaving rationally, in the sense
 of applying a rule, and this is particularly likely to be said if, though he may have learned to respond because
 of past warnings, he does so now because he has analyzed the situation and, so to speak, warned himself. He
 describes his own behavior and the contingencies responsible for it and as a result is more likely to behave in
 an appropriate way on future occasions. The law makes an important point of this; the person who has
-weighed the consequences of his action, who knows the e ect his behavior will have, is especially subject to
+weighed the consequences of his action, who knows the effect his behavior will have, is especially subject to
 punishment.
 We also talk about consequences—we supply reasons—when we exhort a person to act or urge or persuade
 him to act. To urge is to make more urgent by adding conditioned aversive stimuli; to persuade is to add
@@ -3588,7 +3588,7 @@ extinguish any behavior which has been reinforced by it, but if we withhold with
 done, we create a state of deprivation in which behavior reinforced by that good is strong and in which the
 good is highly reinforcing, and we create an emotional disposition to harm us. We ourselves and the object of
 our attention may feel or introspectively observe many relevant states of our bodies, but the management of
-the contingencies is the e ective step.
+the contingencies is the effective step.
 A number of familiar !elds of management may be brie:y discussed.
 Teaching. Everyone has su ered, and unfortunately is continuing to su er, from mentalistic theories of
 learning in education. It is a !eld in which the goal seems to be obviously a matter of changing minds,
@@ -3599,7 +3599,7 @@ contingencies must be contrived; there is no way out of this. The teacher cannot
 the student into the classroom to build behavior appropriate to the contingencies he will encounter later. The
 behaviors to be constructed in advance are as much a matter of productive thinking and creativity as of plain
 facts and skills.
-Here is a sample of what is standing in the way of e ective education: It is said that “attitudes expressed in
+Here is a sample of what is standing in the way of effective education: It is said that “attitudes expressed in
 the structure of school systems a ect the cognitive and creative potential of virtually every child, as do the
 feelings and personalities of teachers and their supervisors.” The “attitudes expressed in the structure of school
 systems” presumably represent the behavior of designing and constructing schools and instructional programs;
@@ -3635,7 +3635,7 @@ of deserved attention cheapens the coinage.
 “What is needed,” says Carl Rogers, “is a new concept of therapy as o ering help, not control.” But these are
 not alternatives. One can help a person by arranging an environment which exerts control, and if I am right,
 one cannot help a person without doing so. So-called humanistic psychologists control people if they have any
-e ect at all, but they do not allow themselves to analyze their practices. One unfortunate result is that they
+effect at all, but they do not allow themselves to analyze their practices. One unfortunate result is that they
 cannot teach them—and may even say that teaching is wrong. “Help” points to the interests of the person
 helped and “control” to the interests of the controller, but before we decide that the !rst is good and the
 second bad, we should ask whether the controller is a ected by his own good or the good of others. We must
@@ -3657,10 +3657,10 @@ so, it is because he is uncontrollable, not irresponsible, and the term controll
 tended to replace that of responsibility.
 
 Entertaining. It may be said that there is one !eld in which what is done is not really management,
-although an e ect on other people is extremely important. The artist, the composer, or the writer of poetry or
+although an effect on other people is extremely important. The artist, the composer, or the writer of poetry or
 !ction produces something which seems to be justi!ed solely by the fact that it is reinforcing, no attention
 being paid to the contingencies. (Religious art, ceremonial music, and books with a message are designed to
-induce action, and similar reinforcing e ects are used for educational, therapeutic, and other purposes.
+induce action, and similar reinforcing effects are used for educational, therapeutic, and other purposes.
 Reinforcing pictures, furnishings, and background music are used to make stores, oDces, and hotel lobbies
 function as conditioned reinforcers, to increase the likelihood that people will come back again. But I am
 speaking here of “pure” art.) At best the artist, composer, or writer acts to produce something which reinforces
@@ -3670,7 +3670,7 @@ him, and he is most likely to continue to be productive when that is the case. B
 them, buys them, or buys copies of them in order to look at them because one is reinforced when one does so.
 One plays music which is reinforcing, goes to concerts, or buys recordings. One buys and reads books. The fact
 is probably not entirely irrelevant to artist, composer, or writer, but even if it were, there is no reason why a
-behavioristic account could not list the reinforcing e ects of works of art, music, and literature and deal with
+behavioristic account could not list the reinforcing effects of works of art, music, and literature and deal with
 them as such, rather in the manner of the contemplative knowing discussed in
 Chapter 9 . The fact that
 conspicuous behavior is lacking does not mean that mental life has been demonstrated.
@@ -3679,7 +3679,7 @@ The Self and Others
 People used to suppose that they knew themselves better than they knew others (or than others knew them).
 What they meant is that they knew their own feelings and introspectively observed states better than those of
 others. Self-knowledge is then a matter of being in contact with oneself. When people began to discover why
-others behaved as they did, a di erent kind of self-knowledge arose, which took genetic endowment,
+others behaved as they did, a different kind of self-knowledge arose, which took genetic endowment,
 environmental history, and current setting into account. The historical priority of self-knowledge based upon
 introspection gave way to knowledge of environmental contingencies.
 The order of discovery was reversed in self-management. People learn rather easily to control others. A baby,
@@ -3687,7 +3687,7 @@ for example, develops certain methods of controlling his parents when he behaves
 kinds of action. Children acquire techniques of controlling their peers, and they become skillful in this long
 before they control themselves. The early instruction they receive in changing their own feelings or
 introspectively observed states by exercising will power or altering emotional and motivational states is not
-very e ective. The self-management which begins to be taught in the form of proverbs, maxims, and rules of
+very effective. The self-management which begins to be taught in the form of proverbs, maxims, and rules of
 thumb is a matter of changing the environment. The control of others, learned at an early date, comes at last to
 be used in self-control, and eventually a full-:edged technology of behavior leads to skillful self-management.
 That it also leads to the skillful management of others raises serious problems to which we now turn.
@@ -3707,7 +3707,7 @@ technology are merely manifestations of this essential feature of human behavior
 and explanation, as well as technological applications, exemplify the control of nature. They do not express an
 “attitude of domination” or a “philosophy of control.” They are the inevitable results of certain behavioral
 processes.
-We have no doubt made mistakes. We have discovered, perhaps too rapidly, more and more e ective ways
+We have no doubt made mistakes. We have discovered, perhaps too rapidly, more and more effective ways
 of controlling our world, and we have not always used them wisely, but we can no more stop controlling
 nature than we can stop breathing or digesting food. Control is not a passing phase. No mystic or ascetic has
 ever ceased to control the world around him; he controls it in order to control himself. We cannot choose a
@@ -3716,7 +3716,7 @@ Countercontrol
 
 Organized agencies or institutions, such as governments, religions, and economic systems, and to a lesser extent
 educators and psychotherapists, exert a powerful and often troublesome control. It is exerted in ways which
-most e ectively reinforce those who exert it, and unfortunately this usually means in ways which either are
+most effectively reinforce those who exert it, and unfortunately this usually means in ways which either are
 immediately aversive to those controlled or exploit them in the long run.
 Those who are so controlled then take action. They escape from the controller—moving out of range if he is
 an individual, or defecting from a government, becoming an apostate from a religion, resigning, or playing
@@ -3725,14 +3725,14 @@ reformation, a strike, or a student protest. In other words, they oppose control
 A condition may be reached in which these opposing forces are in equilibrium, at least temporarily, but the
 result is seldom an optimal solution. An incentive system may reconcile a con:ict between management and
 labor, nations may maintain a balance of power, and governmental, religious, and educational practices may
-be e ective just short of defection, apostasy, or truancy, but the results are by no means well-designed social
+be effective just short of defection, apostasy, or truancy, but the results are by no means well-designed social
 environments.
 Ethics and Compassion
 
 We speak of a benevolent ruler, a devoted teacher, a compassionate therapist, and a public-spirited
 industrialist, as if their behavior were symptomatic of inner traits of character. When we ask why a person is
-benevolent, devoted, compassionate, or public-spirited, we !nd ourselves examining the e ect his behavior has
-on others. (The U tilitarians referred to e ects of this sort in de!ning utility as “that principle that approves or
+benevolent, devoted, compassionate, or public-spirited, we !nd ourselves examining the effect his behavior has
+on others. (The U tilitarians referred to effects of this sort in de!ning utility as “that principle that approves or
 disapproves of every action whatsoever, according to the tendency which it appears to have to augment or
 diminish the happiness of the party whose interest is in question,” but this was the approval or disapproval of
 a third party, not of the party immediately a ected by the action.) The consequences responsible for
@@ -3772,13 +3772,13 @@ contingencies without bene!t of rules.
 People do begin to call behavior good or bad or right or wrong and to reinforce or punish accordingly, and
 rules are eventually stated which help a person conform to the practices of his community and help the
 community maintain the practices. A person who learns these rules and behaves by explicitly following them
-still has not internalized them, even when he learns to control himself and thus to adjust even more e ectively
+still has not internalized them, even when he learns to control himself and thus to adjust even more effectively
 to the contingencies maintained by the group. Social behavior does not require that the contingencies which
 generate it should be formulated in rules or, if they have been formulated, that a person should know the rules.
 It is extraordinarily important, however, that social practices be formulated.
 We sometimes say that we acted in a given way because we knew it was right or felt that it was right, but
 what we feel when we behave morally or ethically depends on the contingencies responsible for our behavior.
-What we feel about the behavior of others depends on its e ect on us; what we feel about our own behavior
+What we feel about the behavior of others depends on its effect on us; what we feel about our own behavior
 toward others depends on the action others take. The bodily conditions known or felt may be particularly
 conspicuous when the sanctions are strong. A person who has been exposed to the promise of heaven and the
 threat of hell may feel stronger bodily states than one whose behavior is merely approved or censured by his
@@ -3811,8 +3811,8 @@ infer a sense of decency, as it was not enough to cite the behavior from which w
 who have helpless people in their charge. We must look at countercontrolling contingencies.
 Man has been said to be superior to the other animals because he has evolved a moral or ethical sense. “By
 far the most important characteristic of human beings is that we have and exercise moral judgment.” But what
-has evolved is a social environment in which individuals behave in ways determined in part by their e ects on
-others. Di erent people show di erent amounts and kinds of moral and ethical behavior, depending upon the
+has evolved is a social environment in which individuals behave in ways determined in part by their effects on
+others. Different people show different amounts and kinds of moral and ethical behavior, depending upon the
 extent of their exposure to such contingencies. Morals and ethics have been said to involve “attitudes toward
 law and government which have taken centuries in the building,” but it is much more plausible to say that the
 behavior said to express such attitudes is generated by contingencies that have developed over the centuries. An
@@ -3834,14 +3834,14 @@ made the point in Erewhon, where people were blamed for physical but not moral i
 people, one of whom has been crippled by an accident, the other by an early environmental history which
 makes him lazy and, when criticized, mean. Both cause great inconvenience to others, but one dies a martyr,
 the other a scoundrel. Or compare two children—one crippled by polio, the other by a rejecting family. Both
-contribute little to others and cause trouble, but only one is blamed. The main di erence is that only one kind
+contribute little to others and cause trouble, but only one is blamed. The main difference is that only one kind
 of disability is correctable by punishment, and even then only occasionally. It is tempting to say that only one
 person in each case could do something about his condition, but should we not say that we could do something
 besides blaming him?
 To attribute moral and ethical behavior to environmental contingencies seems to leave no room for
 absolutes. It suggests a kind of relativism in which what is good is whatever is called good. One objection to
 this is that it refers to reinforcers but not to the maintained contingencies in which they appear. We also tend
-to object when what another group calls good di ers widely from what we call good, if our practices con:ict.
+to object when what another group calls good differs widely from what we call good, if our practices con:ict.
 But an environmental account is not relativism in this sense. The “boo-hurrah theory” of ethical emotivists was
 an appeal to feelings sharply localized in time and place and unrelated to any apparent reasons for ethical and
 moral standards. Ethical and moral contingencies of reinforcement have their own consequences, to which I
@@ -3879,10 +3879,10 @@ control by putting another party in power at the next election. As an alternativ
 lottery, and instead of being forced to pay taxes, the citizen voluntarily buys tickets. The result is the same: the
 citizens give the government money, but they feel free and do not protest in the second case. Nevertheless they
 are being controlled, as powerfully as by a threat of punishment, by that particularly powerful (variableratio)
-schedule of reinforcement discussed in Chapter 4, the e ect of which is all too clearly shown in the behavior of
+schedule of reinforcement discussed in Chapter 4, the effect of which is all too clearly shown in the behavior of
 the compulsive or pathological gambler.
 Control is concealed when it is represented as changing minds rather than behavior. Persuasion is not always
-e ective, but when it is, it breeds little or no countercontrol. We persuade in part by describing potentially
+effective, but when it is, it breeds little or no countercontrol. We persuade in part by describing potentially
 reinforcing consequences. A well-known ecologist has discussed the possibility of making industries pay for the
 right to pollute air, land, and water. This requires either legislation or voluntary agreement by industry, and “in
 our kind of democracy” either is possible only “by persuasion, by creating a favorable climate of public
@@ -3917,7 +3917,7 @@ goods, and not to foul the environment, in the sense that he will be criticized 
 if he does so. The responsibility is not a personal possession but a property of the (mainly legal) contingencies
 to which people are exposed. By turning from rights and responsibilities to the behaviors attributed to them or
 said to be justi!ed by them, and in turning to the social (usually governmental) contingencies which shape and
-maintain those behaviors, we escape from a centuries-old controversy and move toward possibly e ective
+maintain those behaviors, we escape from a centuries-old controversy and move toward possibly effective
 action.
 The declaration of the Stockholm conference contained twenty-six principles. The conference had no military
 or economic, and very little educational, power; it could only make recommendations. In the English version
@@ -3933,17 +3933,17 @@ The Controlling Social Environment
 People have su ered so long and so painfully from the controls imposed upon them that it is easy to
 understand why they so bitterly oppose any form of control. A simple analysis of controlling practices, such as
 that in the preceding chapter, is likely to be attacked simply because it could be misused by controllers. But in
-the long run any e ective countercontrol leading to the “liberation” of the individual can be achieved only by
+the long run any effective countercontrol leading to the “liberation” of the individual can be achieved only by
 explicit design, and this must be based upon a scienti!c analysis of human behavior. We must surely begin
 with the fact that human behavior is always controlled. “Man is born free,” said Rousseau, “and is everywhere
 in chains,” but no one is less free than a newborn child, nor will he become free as he grows older. His only
 hope is that he will come under the control of a natural and social environment in which he will make the
 most of his genetic endowment and in doing so most successfully pursue happiness. His family and his peers
 are part of that environment, and he will bene!t if they behave in ethical ways. Education is another part of
-that environment, and he will acquire the most e ective repertoire if his teachers recognize their role for what
+that environment, and he will acquire the most effective repertoire if his teachers recognize their role for what
 it is rather than assume that it is to leave him free to develop himself. His government is part of that
 environment, and it will “govern least” if it minimizes its punitive measures. He will produce what he and
-others need most e ectively and least aversively if incentive conditions are such that he works carefully and
+others need most effectively and least aversively if incentive conditions are such that he works carefully and
 industriously and is reinforced by what he does. All this will be possible not because those with whom he
 associates possess morality and a sense of ethics or decency or compassion, but because they in turn are
 controlled by a particular kind of social environment.
@@ -3986,7 +3986,7 @@ in the biological characteristics of the species, others in “universal feature
 people live.
 The important thing about a culture so de!ned is that it evolves. A practice arises as a mutation, it a ects the
 chances that the group will solve its problems, and if the group survives, the practice survives with it. It has
-been selected by its contribution to the e ectiveness of those who practice it. Here is another example of that
+been selected by its contribution to the effectiveness of those who practice it. Here is another example of that
 subtle process called selection, and it has the same familiar features. Mutations may be random. A culture need
 not have been designed, and its evolution does not show a purpose.
 The practices which compose a culture are a mixed bag, and some parts may be inconsistent with others or
@@ -4008,7 +4008,7 @@ reinforcers, and that it is the contingencies of which they are a part which are
 The society will be “cured” if it can be changed in such a way that a person is generously and consistently
 reinforced and therefore “ful!lls himself” by acquiring and exhibiting the most successful behavior of which he
 is capable. Better ways of teaching (introduced for whatever reason, possibly only because of immediate
-consequences for teacher or student) will make a more e ective use of the human genetic endowment. Better
+consequences for teacher or student) will make a more effective use of the human genetic endowment. Better
 incentive conditions (introduced for whatever reason, possibly only in the interests of management or labor)
 mean more and better goods and more enjoyable working conditions. Better ways of governing (introduced for
 whatever reason, possibly merely in the interests of governed or governor) mean less time wasted in personal
@@ -4049,7 +4049,7 @@ which are harmful to others? Will a culture evolve in which individuals are not 
 own actualization and ful!llment that they do not give serious attention to the future of the culture? These
 questions, and many others like them, are the questions to be asked rather than who will control and to what
 end. No one steps outside the causal stream. No one really intervenes. Mankind has slowly but erratically
-created environments in which people behave more e ectively and no doubt enjoy the feelings which
+created environments in which people behave more effectively and no doubt enjoy the feelings which
 accompany successful behavior. It is a continuing process.
 
 13
@@ -4078,9 +4078,9 @@ Grounds for Comparison
 Simplicity. We cannot say that one is simpler than the other, since references to mental states and activities
 make distinctions which must be recast in terms of contingencies of survival or reinforcement. It is possible,
 indeed, that a behavioral analysis will be more complex. Although some schedules of reinforcement, for
-example, produce familiar e ects which have been introspectively observed and named, many yield entirely
+example, produce familiar effects which have been introspectively observed and named, many yield entirely
 unexpected results.
-Use in Control . Accessibility is a di erent matter. No one has ever directly modi!ed any of the
+Use in Control . Accessibility is a different matter. No one has ever directly modi!ed any of the
 mental
 activities or traits listed above. There is no way in which one can make contact with them. The bodily
 conditions felt as such can be changed surgically, electrically, or with drugs, but for most practical purposes
@@ -4116,7 +4116,7 @@ what is done most of the time in mentalistic discussions, and that is why they b
 that we could trace human behavior not only to the physical conditions which shape and maintain it but also
 to the causes of those conditions and the causes of those causes, almost
 ad in nitum, but there is no point in
-going back beyond the point at which e ective action can be taken. That point is not to be found in the
+going back beyond the point at which effective action can be taken. That point is not to be found in the
 psyche, and the explanatory force of mental life has steadily declined as the promise of the environment has
 come to be more clearly understood.
 Relation to Other Sciences. Another question is this: Which position more readily promotes a cooperative
@@ -4140,7 +4140,7 @@ event, which in turn causes a physical event, remains to be answered or dismisse
 in the physiology of vision has said that “the transition from the excitations in the cortex to the subjective
 experience de!es explanation”).
 The problem could be avoided if we could stay within the mental or psychic stage. In the “intrapsychic life
-of the mind” mental causes have mental e ects, and among them are states of awareness or consciousness, and
+of the mind” mental causes have mental effects, and among them are states of awareness or consciousness, and
 if this inner world could be observed in a purely solipsistic way, if the student of mental life had no reason to
 appeal to physical action, even in communicating with others, and if mental life played no disruptive role to
 be taken into account by the behaviorist, everyone would be satis!ed. But psychology as the study of subjective
@@ -4177,14 +4177,14 @@ entire brain’s intelligence because it is the brain’s mouthpiece (language i
 “all normal highly developed brains function in such a manner as to develop natural moral ideas in response
 to their experiences of reality.”
 The science of physiology began in much the same way. Early observations of re:ex action, for example,
-were made long before the activity of nerves could be detected. Di erent parts of the nervous system could be
+were made long before the activity of nerves could be detected. Different parts of the nervous system could be
 isolated, but what happened in a given part could only be inferred. This was true even in the !rst part of the
 twentieth century. The synapse analyzed by Sir Charles Sherrington was part of a conceptual nervous system,
 and so was the “activity of the cerebral cortex” investigated by Pavlov. A conceptual nervous system cannot, of
 course, be used to explain the behavior from which it is inferred.
 Physiology and, particularly with respect to behavior, neurology, have of course made great progress.
 Electrical and chemical properties of many neural activities are now directly observed and measured. The
-nervous system is, however, much less accessible than behavior and environment, and the di erence takes its
+nervous system is, however, much less accessible than behavior and environment, and the difference takes its
 toll. We know some of the processes which a ect large blocks of behavior—sensory, motor, motivational, and
 emotional—but we are still far short of knowing precisely what is happening when, say, a child learns to drink
 from a cup, to call an object by its name, or to !nd the right piece of a jigsaw puzzle, as we are still far short
@@ -4197,7 +4197,7 @@ recently been said that “we may be rapidly acquiring the power to modify and c
 activities of men by direct intervention and manipulation of their bodies and minds,” and that the biological
 human engineering that results will probably have profound social consequences. It is direct intervention and
 manipulation of the body which is most often cited today to illustrate the dangers of the control of behavior,
-but a much more e ective control is already within reach through environmental manipulation. It is only the
+but a much more effective control is already within reach through environmental manipulation. It is only the
 traditional fascination with an inner life which again leads to the neglect of the latter.
 To say that “the only possible theoretical basis for the explanation of human behavior is to be found in the
 physiology of the brain and central nervous system,” and that “the adoption of this basis necessarily leads to
@@ -4205,9 +4205,9 @@ the disappearance of psychology as an independent science,” is also to overloo
 science and of what it has to say about feelings and introspectively observed states. A similar entrapment in
 physiology is illustrated by the statement “If man’s life is ever to be lived along entirely rational lines, free
 from such disturbances as war, crimes, and economic booms and depressions, he will have to !nd a way of
-increasing the size of his brain.” There could scarcely be a better example of the damaging e ect of the innerdirectedness of physiological, as well as mentalistic, inquiry. If we are to be free from war, crimes, and
+increasing the size of his brain.” There could scarcely be a better example of the damaging effect of the innerdirectedness of physiological, as well as mentalistic, inquiry. If we are to be free from war, crimes, and
 economic booms and depressions, we shall have to !nd a better social environment.
-The promise of physiology is of a di erent sort. New instruments and methods will continue to be devised,
+The promise of physiology is of a different sort. New instruments and methods will continue to be devised,
 and we shall eventually know much more about the kinds of physiological processes, chemical or electrical,
 which take place when a person behaves. The physiologist of the future will tell us all that can be known
 about what is happening inside the behaving organism. His account will be an important advance over a
@@ -4215,7 +4215,7 @@ behavioral analysis, because the latter is necessarily “historical”—that i
 relations showing temporal gaps. Something is done today which a ects the behavior of an organism
 tomorrow. No matter how clearly that fact can be established, a step is missing, and we must wait for the
 physiologist to supply it. He will be able to show how an organism is changed when exposed to contingencies
-of reinforcement and why the changed organism then behaves in a di erent way, possibly at a much later date.
+of reinforcement and why the changed organism then behaves in a different way, possibly at a much later date.
 What he discovers cannot invalidate the laws of a science of behavior, but it will make the picture of human
 action more nearly complete.
 Mind or Nervous System?
@@ -4284,13 +4284,13 @@ consciousness, feelings, and states of mind, but radical behaviorism does not th
 does not “sweep the problem of subjectivity under the rug”; it does not “maintain a strictly behavioristic
 methodology by treating reports of introspection merely as verbal behavior”; and it was not designed to
 “permit consciousness to atrophy.” What it has to say about consciousness is this: (a) Stimulation arising inside
-the body plays an important part in behavior. (b) The nervous systems through which it is e ective evolved
+the body plays an important part in behavior. (b) The nervous systems through which it is effective evolved
 because of their role in the internal and external economy of the organism. (c) In the sense in which we say
 that a person is conscious of his surroundings, he is conscious of states or events in his body; he is under their
 control as stimuli. A boxer who has been “knocked unconscious” is not responding to current stimuli either
-within or outside his skin, and a person may continue to talk, “unconscious of the e ect he is having on his
-listeners” if that e ect is not exerting control over his behavior. Far from ignoring consciousness in this sense, a
-science of behavior has developed new ways of studying it. (d) A person becomes conscious in a di erent sense
+within or outside his skin, and a person may continue to talk, “unconscious of the effect he is having on his
+listeners” if that effect is not exerting control over his behavior. Far from ignoring consciousness in this sense, a
+science of behavior has developed new ways of studying it. (d) A person becomes conscious in a different sense
 when a verbal community arranges contingencies under which he not only sees an object but sees that he is
 seeing it. In this special sense, consciousness or awareness is a social product. (e) Introspective knowledge of
 one’s body—self-knowledge—is defective for two reasons: the verbal community cannot bring self-descriptive
@@ -4306,10 +4306,10 @@ no verbal contingencies make them conscious of pain in the sense of feeling that
 sound in the sense of seeing that they are seeing or hearing that they are hearing.
 A completely independent science of subjective experience would have no more bearing on a science of
 behavior than a science of what people feel about !re would have on the science of combustion. Nor could
-experience be divorced from the physical world in the way needed to make such a science possible. Di erent
-verbal communities generate di erent kinds and amounts of consciousness or awareness. Eastern philosophies,
+experience be divorced from the physical world in the way needed to make such a science possible. Different
+verbal communities generate different kinds and amounts of consciousness or awareness. Eastern philosophies,
 psychoanalysis, experimental psychology, phenomenology, and the world of practical a airs lead to the
-observation of very di erent feelings and states of mind. An independent science of the subjective would be an
+observation of very different feelings and states of mind. An independent science of the subjective would be an
 independent science of verbal communities.
 Must we conclude that all those who have speculated about consciousness as a form of self-knowledge—from
 the Greeks to the British empiricists to the phenomenologists—have wasted their time? Perhaps we must. They
@@ -4329,14 +4329,14 @@ recently come into the open. The view that little or nothing is due to the envir
 education. Students are classi!ed essentially as those who do not need to be taught and those who cannot be,
 and the doctrine of universal education is challenged on the grounds that some children are essentially
 unteachable. But the roles of heredity and environment are to be discovered through observation, not assigned
-in conformity with political beliefs. Species di er in the speeds with which they can be conditioned and in the
+in conformity with political beliefs. Species differ in the speeds with which they can be conditioned and in the
 
 nature and size of the repertoires they can maintain, and it is probable that people show similar inherited
-di erences. Nevertheless, the topography or form or behavior is only rarely a ected. To say that intelligence or
+differences. Nevertheless, the topography or form or behavior is only rarely a ected. To say that intelligence or
 some other ability or trait is twenty percent a matter of the environment and eighty percent a matter of
 genetics is not to say that twenty percent of a person’s behavior is due to contingencies of reinforcement and
 eighty percent to genetic endowment. Raise one identical twin in China and the other in France and their
-verbal behavior will be completely di erent. (The grammars of the two languages may have certain features in
+verbal behavior will be completely different. (The grammars of the two languages may have certain features in
 common but not, as we have seen, because grammar has a genetic basis.)
 3. The eliciting stimulus is a particularly clear example of environmental action and probably for that reason
 was the !rst to be discovered and formulated. The notion of a trigger which released stored behavior was
@@ -4351,7 +4351,7 @@ often said to treat behavior simply as response to stimulus. If that were the ca
 much of the character of a puppet, robot, or machine. But stimuli do not elicit operant responses; they simply
 modify the probability that responses will be emitted. They do so because of the contingencies of
 reinforcement in which they have played a part, and they may act in combination with other conditions,
-possibly but not necessarily to the point at which a response occurs. This is a far di erent role from that of the
+possibly but not necessarily to the point at which a response occurs. This is a far different role from that of the
 eliciting stimulus in a re:ex.
 4. Human beings attend to or disregard the world in which they live. They search for things in that world.
 They generalize from one thing to another. They discriminate. They respond to single features or special sets of
@@ -4376,10 +4376,10 @@ selection by contingencies of reinforcement. A person disposed to act because he
 may feel the condition of his body at such a time and call it “felt purpose,” but what behaviorism rejects is the
 causal eDcacy of that feeling.
 6. Contingencies of reinforcement also resemble contingencies of survival in the production of novelty. The
-key word in Darwin’s title was “origin.” Natural selection explained the origination of millions of di erent
+key word in Darwin’s title was “origin.” Natural selection explained the origination of millions of different
 species on the surface of the earth, without appealing to a creative mind. In the !eld of human behavior the
 possibility arises that contingencies of reinforcement may explain a work of art or the solution to a problem in
-mathematics or science without appealing to a di erent kind of creative mind or to a trait of creativity or to
+mathematics or science without appealing to a different kind of creative mind or to a trait of creativity or to
 the possibility that “men of genius have more creative nervous energy than lesser mortals.”
 In both natural selection and operant conditioning the appearance of “mutations” is crucial. U ntil recently,
 species evolved because of random changes in genes or chromosomes, but the geneticist may arrange
@@ -4390,8 +4390,8 @@ the creative artist or thinker has other ways of introducing novelties, some of 
 identity, in the sense that he is one member and no other. He begins as an organism and becomes a person or
 self as he acquires a repertoire of behavior. He may become more than one person or self if he acquires more
 
-or less incompatible repertoires appropriate to di erent occasions. In self-knowledge, the knowing self is
-di erent from the known. In self-management the controlling self is di erent from the controlled. But all selves
+or less incompatible repertoires appropriate to different occasions. In self-knowledge, the knowing self is
+different from the known. In self-management the controlling self is different from the controlled. But all selves
 are the products of genetic and environmental histories. Self-knowledge and self-management are of social
 origin, and the selves known and managed are the products of both contingencies of survival and contingencies
 of reinforcement. Nothing about the position taken in this book questions the uniqueness of each member of
@@ -4445,7 +4445,7 @@ easily controlled, as with psychotics and retardates. (Its success there has bee
 normal children soon began to be studied, and then normal adults. Special problems naturally arise from the
 relation of the subject to the experimenter and from the long and complex history of the subject prior to the
 experiment, but enough has been done to suggest that the same basic processes occur in both animals and men,
-just as the same kind of nervous system is to be found in both. There are, of course, enormous di erences in
+just as the same kind of nervous system is to be found in both. There are, of course, enormous differences in
 the complexity of their repertoires.
 Curiously enough, the relation between animal and human behavior is sometimes said to point in the other
 direction. “The study of animal behavior is unique among the sciences because it begins historically and
@@ -4465,7 +4465,7 @@ organism. It obviously does not promote—it almost necessarily interferes with�
 knowledge which is said to arise from the interpersonal relations discussed in Chapter 11. The equipment is
 not used because it does so, even though a clinical psychologist has claimed that “experimental psychologists
 use their gadgets and machines to defend themselves against real involvement with their subjects.” They use
-them for the sake of a di erent kind of “knowing another person.”
+them for the sake of a different kind of “knowing another person.”
 Obviously we cannot predict or control human behavior in daily life with the precision obtained in the
 laboratory, but we can nevertheless use results from the laboratory to interpret behavior elsewhere. Such an
 interpretation of human behavior in daily life has been criticized as metascience, but all the sciences resort to
@@ -4574,15 +4574,15 @@ changes were not made before the advent of an experimental analysis. It is somet
 may still ask why these occasional instances, scattered throughout the centuries, have not become standard
 practice. Even the fact that a practice works or that it makes sense is often not enough to ensure its continued
 use, and one reason is that, temporarily at least, the wrong practices also seem to work and make sense.
-The important di erence is in the time at which the desirable results occur. In spite of the fact that many
+The important difference is in the time at which the desirable results occur. In spite of the fact that many
 people nd them objectionable, punishment and aversive control are still common, and for a single reason:
 those who use them are usually immediately reinforced; only the deferred results are objectionable. Positive
-reinforcement is at least equally powerful as a controlling measure, but its e ects are usually at least slightly
+reinforcement is at least equally powerful as a controlling measure, but its effects are usually at least slightly
 deferred. It is only when laboratory research demonstrates that positive reinforcement has worthwhile
 consequences that one learns to wait for them.
 The disastrous results of common sense in the management of human behavior are evident in every walk of
 life, from international a airs to the care of a baby, and we shall continue to be inept in all these elds until a
-scienti c analysis clari es the advantages of a more e ective technology. It will then be obvious that the results
+scienti c analysis clari es the advantages of a more effective technology. It will then be obvious that the results
 are due to more than common sense.
 15. In An Inquiry into Meaning and Truth Bertrand Russell wrote as follows: “When the behaviorist observes
 the doings of animals, and decides whether these show knowledge or error, he is not thinking of himself as an
@@ -4593,20 +4593,20 @@ from some special point of vantage, “perched on the epicycle of Mercury.” In
 behavior he is behaving—as, in the very act of analyzing thinking, the philosopher is thinking.
 The behavior of logician, mathematician, and scientist is the most di0cult part of the eld of human
 behavior and possibly the most subtle and complex phenomenon ever submitted to a logical mathematical, or
-scienti c analysis, but because it has not yet been well analyzed, we should not conclude that it is a di erent
-kind of eld, to be approached only with a di erent kind of analysis. There is no reason why we cannot ask
+scienti c analysis, but because it has not yet been well analyzed, we should not conclude that it is a different
+kind of eld, to be approached only with a different kind of analysis. There is no reason why we cannot ask
 what a logician or mathematician does as he discovers how or why new rules can be derived from old or why,
 if the old can be said to be true, the new must be true too. It is possible, in fact, that a behavioral analysis may
 yield a new kind of attack on familiar problems, such as the paradoxes or Gödel’s theorem.
-Scienti c knowledge is verbal behavior, though not necessarily linguistic. It is a corpus of rules for e ective
-action, and there is a special sense in which it could be “true” if it yields the most e ective action possible. But
+Scienti c knowledge is verbal behavior, though not necessarily linguistic. It is a corpus of rules for effective
+action, and there is a special sense in which it could be “true” if it yields the most effective action possible. But
 rules are never the contingencies they describe; they remain descriptions and su er the limitations inherent in
 verbal behavior. As I pointed out in Chapter 8 , a proposition is “true” to the extent that with its help the
-listener responds e ectively to the situation it describes. The account given by the speaker functions in lieu of
+listener responds effectively to the situation it describes. The account given by the speaker functions in lieu of
 the direct control by the environment which has generated it, and the listener’s behavior can never exceed the
 behavior controlled by the situation described. The tautological truth of the logician or mathematician can be
 proved; it is absolute. The canons of scienti c methods are designed to maximize the control exerted by the
-stimulus and to suppress other conditions, such as incidental e ects upon the listener which lead the speaker to
+stimulus and to suppress other conditions, such as incidental effects upon the listener which lead the speaker to
 exaggerate or lie.
 Traditional theories of knowledge run into trouble because they assume that one must think before behaving
 (not to mention thinking before existing, as in Cogito, ergo sum ). No one thinks before he acts except in the
@@ -4701,14 +4701,14 @@ remains what he has always been, and his most conspicuous achievement has been t
 of a world which has freed him from constraints and vastly extended his range.
 No doubt he has been careless. In the nineteenth century man’s overriding inhumanity to man came from the
 Industrial Revolution—the payment of wages to a hungry labor force, for example, neglected serious side
-e ects. Marx is said to have described this under the inAuence of earlier romantic writers. Schiller, for example,
+effects. Marx is said to have described this under the inAuence of earlier romantic writers. Schiller, for example,
 had written: “Enjoyment was separated from labor, the means from the end, exertion from recompense.
 Eternally fettered only to a single little fragment of the whole, man fashions himself only as a fragment; ever
 hearing only the monotonous whirl of the wheel which he turns, he never displays the full harmony of his
 being.” In other words, labor no longer had the reinforcing consequences which generate the condition felt as
 joy; the contingencies sustained a very narrow repertoire; a person had no chance to acquire most of the
 behavior of which he was capable.
-Today other side e ects are attracting more attention. Man continues to build machines which dehumanize
+Today other side effects are attracting more attention. Man continues to build machines which dehumanize
 him by dispensing with behaviors that contribute to his status as a person, but he is also breeding at a
 dangerous rate, exhausting the world’s resources, polluting the environment, and doing little to relieve the
 threat of a nuclear holocaust. Nevertheless, if the position I have presented here is correct, he can remedy these
@@ -4719,7 +4719,7 @@ has looked in the wrong place for solutions. The extraordinary role of the envir
 much more successful future, in which he will be most human and humane, and in which he will manage
 himself skillfully because he will know himself accurately.
 A science of behavior has been said to dehumanize man because it is reductionistic. It is said to deal with
-one kind of fact as if it were a di erent kind—as is done for example, by physiological psychology. But
+one kind of fact as if it were a different kind—as is done for example, by physiological psychology. But
 behaviorism does not move from one dimensional system to another. It simply provides an alternative account
 of the same facts. It does not reduce feelings to bodily states; it simply argues that bodily states are and always
 have been what are felt. It does not
@@ -4744,20 +4744,20 @@ individual. It is, rather, a kind of aggrandizement.
 individual case in its search for general principles. There is more in a sunset, a storm at sea, a blade of grass, or
 a piece of music than is dreamt of in philosophies or accounted for in science. Exposure to a unique
 contingency of reinforcement generates a special kind of knowing, and the feelings or introspectively observed
-states of mind associated with it di er widely from those produced when a person follows a rule or obeys a
+states of mind associated with it differ widely from those produced when a person follows a rule or obeys a
 law. The specialist may come close to the unique event, but he never encompasses all of it.
 Psychotherapy has naturally been concerned with the individual. Its stock in trade is the case history, with its
 endless fascination, and the intensive knowledge of another person acquired in therapeutic sessions is no doubt
 beyond the reach of a science which emphasizes generalities. Psychotherapy is largely responsible for the
 humanistic psychology which complains that behaviorism ignores the individual. As one may know the world
-in a sense quite di erent from knowing physical and biological science, so one may know
+in a sense quite different from knowing physical and biological science, so one may know
 people in a sense
 
-quite di erent from knowing behavioral science. It would be foolish to question the interest a person takes in
+quite different from knowing behavioral science. It would be foolish to question the interest a person takes in
 others—in gossip, in autobiographies, in novels, in dramas, in news reports, and so on. Individuals are
 important parts of the environment, and although a science of behavior permits a person to interpret what he
-sees more e ectively, it will never tell him the whole story about the individual case.
-It is only when we ask what is to be done with knowledge that we begin to examine the di erent forms of
+sees more effectively, it will never tell him the whole story about the individual case.
+It is only when we ask what is to be done with knowledge that we begin to examine the different forms of
 knowing more closely and appreciate the value of the generality. Science must balance costs and gains, and
 though it may bear down hard on a unique event, especially in a technological application, it reaps a greater
 harvest from general principles.
@@ -4772,7 +4772,7 @@ consequences called exploitation. As we have seen, those who do not use their po
 exploitative ways do not refrain because they possess compassion, or a sense of ethics, or a concern for the
 welfare of others, but because they have been subjected to countercontrol. Democracy is a version of
 countercontrol designed to solve the problem of manipulation.
-The di erence between conspicuous and inconspicuous control has led to many misunderstandings. It is
+The difference between conspicuous and inconspicuous control has led to many misunderstandings. It is
 sometimes said that children who are being
 taught verbal behavior are acquiring it through operant
 conditioning but that what they learn from a noninstructional verbal community is learned through some other
@@ -4786,7 +4786,7 @@ purposes can be called manipulative, though it does not follow that they are exp
 contingencies must be recognized as having equal power, and also possibly unhappy consequences. It must not
 be forgotten that exhortation, demagoguery, evangelism, and so on are also behavioral practices, as are similar
 practices on a smaller scale in daily life. We are all so used to being controlled to our disadvantage that to call
-a person harmless is to imply that he is totally ine ective or feeble-minded.
+a person harmless is to imply that he is totally ineffective or feeble-minded.
 To say that all control is manipulative and hence wrong is to overlook important uses in education,
 psychotherapy, government, and elsewhere. A proposal to terminate behavioral research or to sequester its
 results on the grounds that they can be used by despots and tyrants would be a disastrous mistake, because it
@@ -4823,9 +4823,9 @@ know that all it is
 doing is serving notice on its fellows that it claims a certain territory for worm grubbing.” And he insists that
 we shall never know why birds sing, “but as poets we know—none better—how their singing a ects us and as
 to this datum science has not a word to say; it can only listen too.”
-It seems to be implied that to understand why birds sing would interfere with the e ect of their singing upon
+It seems to be implied that to understand why birds sing would interfere with the effect of their singing upon
 us, and upon the poet, and upon us when we read what he has to say. The ethologist would be wrong to take
-these e ects into account in trying to discover why birds sing, but he can nevertheless enjoy bird song and also
+these effects into account in trying to discover why birds sing, but he can nevertheless enjoy bird song and also
 what a poet says about it. The bird sings not because of how it feels but because of certain contingencies of
 survival. How the poet feels upon hearing it is doubly irrelevant to why it sings, but there is no reason why the
 poet cannot tell us how he feels or, if he is a good poet, induce in us a condition felt in the same way.
@@ -4834,7 +4834,7 @@ reasons. It can survey the extent to which sound patterns are or become reinforc
 contribute to an explanation of why people compose and listen to music. The conditions generated within the
 body of the listener remain forever private, but the
 behavioral scientist may still investigate the reinforcing
-e ects they are associated with and possibly discover how more reinforcing e ects may be achieved.
+effects they are associated with and possibly discover how more reinforcing effects may be achieved.
 Not only has the most ardent behaviorist feelings like everyone else; on balance he has quite possibly more
 enjoyable ones, because there are states of the body—associated, for example, with failure, frustration, or loss
 —which are far from enjoyable or reinforcing, and they are less likely to be experienced by those who practice
@@ -4868,7 +4868,7 @@ understood, objections of this sort lose their force.
 Another version takes this form: “If human behavior is as fully determined as the behaviorist says it is, why
 does he bother to write a book? Does he believe that anything matters?” To answer that question we should
 have to go into the history of the behaviorist. Nothing he says about human behavior seriously changes the
-e ect of that history. His research has not altered his concern for his fellow men or his belief in the relevance
+effect of that history. His research has not altered his concern for his fellow men or his belief in the relevance
 of a science or technology of behavior. Similar questions might as well be asked of the author of a book on
 respiration: “If that is respiration, why do you go on breathing?”
 
@@ -4888,7 +4888,7 @@ of daily life—in which, therefore, extrapolations from the laboratory become i
 2. What we have learned from the experimental analysis of behavior suggests that the environment performs
 the functions previously assigned to feelings and introspectively observed inner states of the organism. This fact
 has been only slowly recognized. Only very strong evidence of the role of the environment could o set the
-e ects of mentalism in directing attention to supposed inner causes.
+effects of mentalism in directing attention to supposed inner causes.
 3. A behavioral analysis acknowledges the importance of physiological research. What an organism does will
 eventually be seen to be due to what it is, at the moment it behaves, and the physiologist will someday give us
 all the details. He will also tell us how it has arrived at that condition as a result of its previous exposure to the
@@ -4905,24 +4905,24 @@ The Future of Behaviorism
 A good deal of what is called behavioral science is not behavioristic in the present sense. Some of it, as we
 have seen, avoids theoretical issues by con ning itself to the form, topography, or structure of behavior. Some
 of it appeals to the “conceptual nervous systems” of mathematical models and systems theories. Much of it
-remains frankly mentalistic. Perhaps this diversity is healthful: di erent approaches could be regarded as
-mutations, from which a truly e ective behavioral science will eventually be selected. Nevertheless, the present
+remains frankly mentalistic. Perhaps this diversity is healthful: different approaches could be regarded as
+mutations, from which a truly effective behavioral science will eventually be selected. Nevertheless, the present
 condition is not promising. Even in a single part of the eld it is unusual to nd two authorities talking about
 precisely the same things, and although nothing could be more relevant to the problems of the world today,
 the actual accomplishments of behavioral science do not seem to be extensive. (It has been suggested that the
 science is “too young” to solve our problems. This is a curious example of developmentalism, in which
 immaturity o ers a kind of exoneration. We forgive the baby for not walking because he is not yet old enough,
 and by analogy we forgive the asocial or disturbed adult because he has not quite grown up, but must we then
-wait until the behavioral sciences grow more e ective?)
+wait until the behavioral sciences grow more effective?)
 I contend that behavioral science has not made a greater contribution just because it is not very behavioristic.
 It has recently been pointed out that an International Congress on Peace was composed of statesmen, political
 scientists, historians, economists, physicists, biologists—and not a single behaviorist in the strict sense. Evidently
 behaviorism was regarded as useless. But we must ask what the conference achieved. It was composed of
-specialists from many di erent elds, who probably spoke the conmmonsense lingua franca of the layman,
+specialists from many different elds, who probably spoke the conmmonsense lingua franca of the layman,
 with its heavy load of references to inner causation. What might the conference have achieved if it could have
 abandoned this false scent? The currency of mentalism in discussions of human a airs may explain why
 conferences on peace are held with such monotonous regularity year after year.
-To assert that a thoroughgoing behaviorism could make a great di erence is almost inevitably to be asked:
+To assert that a thoroughgoing behaviorism could make a great difference is almost inevitably to be asked:
 “Well, then, what do you suggest? What would
 you do about war, or population, or pollution, or racial
 discrimination, or the revolt of the young?” U nfortunately, to understand the principles involved in solving a
