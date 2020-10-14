@@ -1,5 +1,4 @@
 # Psychology and NLP
-This is a project to analyse NLP on Behaviorist texts
 
 ## About Skinner
 [B.F. Skinner](https://en.wikipedia.org/wiki/B._F._Skinner) (March 20, 1904 – August 18, 1990) was an American psychologist, behaviorist, author, inventor, and social philosopher. He was a professor of psychology at Harvard University from 1958 until his retirement in 1974.
