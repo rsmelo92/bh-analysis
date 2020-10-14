@@ -10,6 +10,6 @@ parse_file('verbal_behavior')
 parse_file('schedules_of_reinforcement')
 parse_file('technology_of_teaching')
 
-# Non-behaviorists books
+# Non-skinner books
+parse_file('understanding_behaviorism')
 parse_file('shultz_and_shultz')
-

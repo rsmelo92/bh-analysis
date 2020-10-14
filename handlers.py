@@ -1,8 +1,14 @@
 import re
 import os
 import string
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+
+from wordcloud import WordCloud, STOPWORDS
+
+import matplotlib
 import matplotlib.pyplot as plt
+
+import numpy as np
+
 import nltk
 from nltk.tokenize import word_tokenize 
 
@@ -10,8 +16,16 @@ new_stopwords = [
   'said', 'say', 'may', 'behavior', 'behaviour', 'one', 'often', 'way', 'example', 'know', 'point',
   'make', 'must', 'thing', 'seem', 'see', 'others', 'called', 'made', 'rather', 'mean', 'given',
   'behaviorism', 'chapter', 'american', 'skinner', 'psychology', 'behaviorist', 'much', 'psychologist',
-  'although', 'use', 'behavioral', 'psychologists', 'become', 'time'
+  'although', 'use', 'behavioral', 'psychologists', 'become', 'time', 'might'
 ]
+
+def get_freq(path, words):
+  tokens = word_tokenize(words)
+  freq = nltk.FreqDist(tokens)
+  plt.ion()
+  freq.plot(10, cumulative=True)
+  plt.savefig(path, dpi=180, bbox_inches='tight')
+  plt.ioff()
 
 def remove_stopwords(text):
   stopwords = nltk.corpus.stopwords.words('english')
@@ -39,8 +53,11 @@ def clean_data(data):
   # Remove stopwords
   no_stop_words = remove_stopwords(no_double)
   
+  # Remove special characters
+  no_special = re.sub('\W+',' ', no_stop_words )
+
   # Change new line for symbol
-  cleaned_data = re.sub(r"\s\s+" , " ", no_stop_words)
+  cleaned_data = re.sub(r"\s\s+" , " ", no_special)
   return cleaned_data
 
 def write_to_file(file_name, text):
@@ -72,6 +89,10 @@ def parse_file(file):
       write_to_file(cleaned_path, cleaned_add_space)
 
   with open(cleaned_path) as f:
-    path = f'./resources/{file}/word_cloud.png'
-    empty_file(path)
-    generate_wordcloud(path, f.read())
+    word_cloud = f'./resources/{file}/word_cloud.png'
+    top_10 = f'./resources/{file}/top_10.png'
+    empty_file(word_cloud)
+    empty_file(top_10)
+    raw_text = f.read()
+    get_freq(top_10, raw_text)
+    generate_wordcloud(word_cloud, raw_text)
