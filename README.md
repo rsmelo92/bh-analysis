@@ -2,7 +2,7 @@
 This is a project to analyse NLP on Behaviorist texts
 
 ## About Skinner
-B F Skinner (March 20, 1904 – August 18, 1990) was an American psychologist, behaviorist, author, inventor, and social philosopher. He was a professor of psychology at Harvard University from 1958 until his retirement in 1974.
+[B.F. Skinner](https://en.wikipedia.org/wiki/B._F._Skinner) (March 20, 1904 – August 18, 1990) was an American psychologist, behaviorist, author, inventor, and social philosopher. He was a professor of psychology at Harvard University from 1958 until his retirement in 1974.
 Skinner was a prolific author, having published 21 books and 180 articles.
 
 This is an analysis of his books to learn NLP better
